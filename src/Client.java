@@ -7,7 +7,6 @@ import java.net.Socket;
  * Created by hailstone01 on 12/28/15.
  */
 public class Client {
-    //add a comment
     public static void main(String[] args) {
         Socket socket = null;
         InputStream is = null;
